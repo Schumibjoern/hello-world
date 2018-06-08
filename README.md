@@ -9,3 +9,4 @@
 8. Create another branch
 9. Stage changes
 10. Commit changes to readme again
+11. Test revert
