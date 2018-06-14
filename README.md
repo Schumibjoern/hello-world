@@ -1,12 +1,18 @@
 # Node.js application test
-1. Git init
-2. Install node.js
-3. Create readme
-4. Create branch
-5. Commit changes to readme
-6. Merge with master
-7. Configure atom to work with Git
-8. Create another branch
-9. Stage changes
-10. Commit changes to readme again
-11. Test revert
+1. Git init [y]
+2. Install node.js [y]
+3. Create readme [y]
+4. Create branch [y]
+5. Commit changes to readme [y]
+6. Merge with master [y]
+7. Configure atom to work with Git [y]
+8. Create another branch [y]
+9. Stage changes [y]
+10. Commit changes to readme again [y]
+11. Test revert [y]
+12. Installed node [y]
+13. Initiated npm [y]
+14. Install express npm [y]
+15. Install url routing npm [y]
+16. Install react[y]
+17. Update dependencies in package.json [y]
