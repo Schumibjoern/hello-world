@@ -11,6 +11,7 @@
   "repository": "private",
   "dependencies": {
     "express": "^4.16.3",
+    "nodemon": "^1.17.5",
     "react": "^16.4.1",
     "url": "^0.11.0"
   }
